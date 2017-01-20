@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Forum');
+@import url('https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css');
+
+p{
+    font-family: 'Forum', cursive;
+}
+body{
+    background-color=#FFB7EBC;
+}
