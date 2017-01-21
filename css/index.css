@@ -1,4 +1,7 @@
+/*fonts*/
 @import url('https://fonts.googleapis.com/css?family=Forum');
+@import url('https://fonts.googleapis.com/css?family=Cinzel:400,700,900');
+/*bootstrap*/
 @import url('https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css');
 
 
@@ -15,7 +18,7 @@ p{
 .smaller-image{
     width:40px;
 }
-h*{
+h1, h2, h3, h4, h5, h6 {
     font-family: 'Forum', cursive;
 }
 
